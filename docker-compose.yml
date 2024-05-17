@@ -1,6 +1,7 @@
 services:
   bitmagnet:
-    image: ghcr.io/bitmagnet-io/bitmagnet:latest
+    build:
+      dockerfile: Dockerfile
     container_name: bitmagnet
     ports:
       # API and WebUI port:
