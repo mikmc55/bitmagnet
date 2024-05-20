@@ -1,0 +1,168 @@
+get_live_categories:
+[
+  {
+    "category_id": "5",
+    "category_name": "Network Tv",
+    "parent_id": 0
+  },
+  {
+    "category_id": "15",
+    "category_name": "Sports Networks",
+    "parent_id": 0
+  },
+  {
+    "category_id": "602",
+    "category_name": "Regional Locals",
+    "parent_id": 0
+  },
+  {
+    "category_id": "7",
+    "category_name": "PPV / Events",
+    "parent_id": 0
+  },
+  {
+    "category_id": "626",
+    "category_name": "ESPN Plus",
+    "parent_id": 0
+  },
+  {
+    "category_id": "653",
+    "category_name": "ESPN Plus (B)",
+    "parent_id": 0
+  },
+  {
+    "category_id": "636",
+    "category_name": "NFL League Pass",
+    "parent_id": 0
+  },
+  {
+    "category_id": "645",
+    "category_name": "NFL Gamepass",
+    "parent_id": 0
+  },
+  {
+    "category_id": "649",
+    "category_name": "NFL Teams",
+    "parent_id": 0
+  },
+  {
+    "category_id": "611",
+    "category_name": "NBA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "605",
+    "category_name": "NCAAF",
+    "parent_id": 0
+  },
+  {
+    "category_id": "608",
+    "category_name": "NHL",
+    "parent_id": 0
+  },
+  {
+    "category_id": "587",
+    "category_name": "MLB",
+    "parent_id": 0
+  },
+  {
+    "category_id": "670",
+    "category_name": "MiLB",
+    "parent_id": 0
+  },
+  {
+    "category_id": "669",
+    "category_name": "UFC Fight Pass",
+    "parent_id": 0
+  },
+  {
+    "category_id": "620",
+    "category_name": "NCAAB",
+    "parent_id": 0
+  },
+  {
+    "category_id": "638",
+    "category_name": "NCAAW",
+    "parent_id": 0
+  },
+  {
+    "category_id": "629",
+    "category_name": "24/7",
+    "parent_id": 0
+  },
+  {
+    "category_id": "624",
+    "category_name": "24/7 CHRISTMAS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "644",
+    "category_name": "OLYMPICS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "642",
+    "category_name": "NCAA Baseball",
+    "parent_id": 0
+  },
+  {
+    "category_id": "647",
+    "category_name": "Bally Sports",
+    "parent_id": 0
+  },
+  {
+    "category_id": "648",
+    "category_name": "DAZN",
+    "parent_id": 0
+  },
+  {
+    "category_id": "650",
+    "category_name": "Peacock",
+    "parent_id": 0
+  },
+  {
+    "category_id": "661",
+    "category_name": "ESPN Play US",
+    "parent_id": 0
+  },
+  {
+    "category_id": "662",
+    "category_name": "Supercross",
+    "parent_id": 0
+  },
+  {
+    "category_id": "660",
+    "category_name": "MLS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "659",
+    "category_name": "NBC",
+    "parent_id": 0
+  },
+  {
+    "category_id": "658",
+    "category_name": "FOX",
+    "parent_id": 0
+  },
+  {
+    "category_id": "657",
+    "category_name": "CBS",
+    "parent_id": 0
+  },
+  {
+    "category_id": "656",
+    "category_name": "ABC",
+    "parent_id": 0
+  },
+  {
+    "category_id": "655",
+    "category_name": "WNBA",
+    "parent_id": 0
+  },
+  {
+    "category_id": "673",
+    "category_name": "Sky Sport (NZ)",
+    "parent_id": 0
+  }
+]
